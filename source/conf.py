@@ -33,7 +33,7 @@ release = 'v0.0'
 #extensions = [
 #]
 extensions = [
-    'recommonmark'
+    
 ]
 
 # Add any paths that contain templates here, relative to this directory.
