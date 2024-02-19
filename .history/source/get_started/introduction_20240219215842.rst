@@ -1,4 +1,4 @@
-introduction
+Installation
 ============
 
 ProG is available for :python:`Python 3.8` to :python:`Python 3.12`.
