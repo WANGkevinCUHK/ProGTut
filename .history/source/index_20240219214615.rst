@@ -11,7 +11,7 @@ ProG tutorial
 It's based on the paper "all in one: multi task prompting for GNN"(Sun et. al. , 2023)
 
 It consists of various methods from a variety of published papers.
-
+.. slack_button::
 
 .. toctree::
    :maxdepth: 1
