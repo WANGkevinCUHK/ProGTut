@@ -8,7 +8,7 @@ ProG Tutorial
 
 **ProG** *(prompt Graph)* is a library built upon `PyTorch <https://pytorch.org>`_ to easily prompt the Graph for Graph Neural Networks (GNNs) structures.
 
-It's based on the paper `"All in one Multi-task Prompting for Graph Neural Networks"(Sun et. al. , 2023) <https://arxiv.org/abs/2307.01504>`_
+It's based on the paper `"All in one Multi-task Prompting for Graph Neural Networks"(Sun et. al. , 2023)<https://arxiv.org/abs/2307.01504>`
 
 It consists of various methods from a variety of published papers.
 
