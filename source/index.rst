@@ -35,7 +35,8 @@ It consists of various methods from a variety of published papers.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Package Reference
+   :caption: Main Package
+
    modules/data
    modules/evaluation
    modules/meta
@@ -44,7 +45,4 @@ It consists of various methods from a variety of published papers.
    modules/prompt
    modules/tasker
    modules/utils
-
-
-   external/resources
 
