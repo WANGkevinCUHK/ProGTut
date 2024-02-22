@@ -12,7 +12,7 @@ they released their `raw codes <https://anonymous.4open.science/r/mpg/README.md>
 
 ^^^^^^^^^^^^^^^^^^^^
 
-**ProG++**: A Unified Python Library for Graph Prompting
+   **ProG++**: A Unified Python Library for Graph Prompting*
 
 **ProG++** is an extended library with **ProG**, which supports more graph prompt models. Currently, **ProG++** is now in its beta version (a little baby: `ProG Plus <https://github.com/Barristen/Prog_plus>`_, and we will merge ``ProG Plus`` to ``ProG`` in the near future. Some implemented models are as follows (*We are now implementing more related models and we will keep integrating more models to ProG++*):
 ::
