@@ -29,25 +29,22 @@ It consists of various methods from a variety of published papers.
    :maxdepth: 1
    :caption: Tutorials
 
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Advanced Concepts
+   tutorial/pre_train
+   tutorial/downstream
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Package Reference
+   modules/data
+   modules/evaluation
+   modules/meta
+   modules/model
+   modules/pre_train
    modules/prompt
+   modules/tasker
+   modules/utils
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Cheatsheets
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: External Resources
 
    external/resources
 
