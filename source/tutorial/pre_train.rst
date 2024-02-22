@@ -2,12 +2,13 @@ pre_train
 ============
 
 Pre-train your GNN model
----
+--------------------
 
 The following codes present a simple example on how to pre-train a GNN model via GraphCL. You can also find a integrated
 function ``pretrain()`` in ``no_meta_demo.py``.
 
 .. code-block:: python
+
     from ProG.utils import mkdir, load_data4pretrain
     from ProG import PreTrain
 
