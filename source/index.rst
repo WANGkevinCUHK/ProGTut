@@ -15,7 +15,7 @@ they released their `raw codes <https://anonymous.4open.science/r/mpg/README.md>
 **ProG++**: A Unified Python Library for Graph Prompting
 
 **ProG++** is an extended library with **ProG**, which supports more graph prompt models. Currently, **ProG++** is now in its beta version (a little baby: `ProG Plus <https://github.com/Barristen/Prog_plus>`_, and we will merge ``ProG Plus`` to ``ProG`` in the near future. Some implemented models are as follows (*We are now implementing more related models and we will keep integrating more models to ProG++*):
-
+::
     [All in One] X. Sun, H. Cheng, J. Li, B. Liu, and J. Guan, "All in One: Multi-Task Prompting for Graph Neural Networks," KDD, 2023
 
     [GPF Plus] T. Fang, Y. Zhang, Y. Yang, C. Wang, and L. Chen, "Universal Prompt Tuning for Graph Neural Networks," NeurIPS, 2023.
